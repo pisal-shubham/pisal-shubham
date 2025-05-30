@@ -4,43 +4,41 @@
 
 ---
 **PROFILE SUMMARY**  
-**Software Engineer** with 2+ years of experience in web development and automation testing.
-
+Full Stack Developer with 2+ years of experience building scalable web applications using Java, Spring Boot, and React. Strong background in backend API development, automation testing, and performance optimization. Committed to solving complex problems and driving innovation through open-source contributions.
 ---
 **SKILLS**  
 **Programming Languages:** Java, JavaScript  
-**Libraries/Frameworks:** React, Spring Boot, Hibernate, Cypress, JUnit  
-**Tools / Platforms:** Git, Maven (Basic)  
+**Frameworks:** React, Spring Boot, Hibernate, Cypress, JUnit  
+**Tools:** Git, Maven (Basic)  
 **Databases:** MySQL  
 
 ---
 **OPEN SOURCE**  
 **[kafbat/kafka-ui](https://github.com/kafbat/kafka-ui)**  | **Key Contributions:** [PRs](https://github.com/pulls?user=kafbat&q=is%3Apr+author%3Apisal-shubham+archived%3Afalse&user=kafbat) & [Issues](https://github.com/issues?user=kafbat&q=is%3Aissue+assignee%3Apisal-shubham+archived%3Afalse&user=kafbat)  
-- Resolved UI bugs to enhance user experience and improve accessibility.
-- Developing secure backend authentication mechanisms.
+- Fixed UI bugs to enhance user experience and improve accessibility.
 
 **[FindFirst](https://github.com/R-Sandor/FindFirst)**  | **Key Contributions:** [PRs](https://github.com/pulls?user=R-Sandor&q=is%3Apr+author%3Apisal-shubham+archived%3Afalse&user=R-Sandor) & [Issues](https://github.com/issues?user=R-Sandor&q=is%3Aissue+assignee%3Apisal-shubham+archived%3Afalse&user=R-Sandor)  
-- Automated critical processes with scheduled jobs, improving system reliability.  
-- Leveraged aspect-oriented programming (AOP) to cleanly manage cross-cutting concerns like logging and security, enhancing code maintainability.  
-- Enhanced server error handling using `@RestControllerAdvice`, ensuring consistent and informative error responses for better user experience and debugging.
+- Automated critical processes with scheduled jobs, improving **system reliability**.  
+- Applied **Aspect-Oriented Programming** (AOP) to streamline logging and security, improving code maintainability and modularity. 
+- Enhanced server error handling using **@RestControllerAdvice** for better debugging and user experience.
 
 ---
 
 **PROJECTS**  
-**Vehicle Service Center Management System**  | **Stack:** React, Spring Boot, Java, TypeScript, JavaScript  
-- Built a full-stack vehicle management system web application to streamline service requests and operations, including adding vehicles, managing service requests, tracking services and parts, and generating bills efficiently.
-- Secured backend with **Spring Security** and **JWT** authentication. Integrated **CORS** and dynamic filtering via **Spring Specifications**.  
-- Built Frontend with **React**, using React Form for handling forms, React Query for data fetching, and React Tables for displaying data.  
+**Vehicle Service Center Management System**  | **Stack:** React, Spring Boot, Java, TypeScript, JavaScript
+- Built a full-stack Vehicle Service Management app using Spring Boot & React, streamlining service requests and billing.
+- Secured backend with **Spring Security** & **JWT** Authentication; optimized RESTful APIs with Spring Specifications.
+- Designed a responsive UI with React Query & React Tables.
 
 ---
 
 **EXPERIENCE**  
 **SDET | Coupa Software, Pune**  | **Nov 2022 - Present**  
-- Automated 120 backlog tests by adding UI automation with **Cypress** and backend automation using a custom framework based on **JUnit**, reducing QE team effort for non-Epic regression testing by 80%.  
-- Contributing to ongoing improvements of the integration test framework by reducing test flakiness through the introduction of mocking between two different applications.  
-- Created a Selenium WebDriver update script to automatically update **Selenium WebDriver** on test servers, reducing the manual effort required to maintain infrastructure.  
-- Resolved UI bugs using **React** and **jQuery** to improve user experience and functionality.  
-- Collaborated on 6 feature releases, working both independently and with teams in gathering requirements, creating detailed test plans, and automating test cases. 
+- Automated **120+ tests** using **Cypress** & **JUnit**, reducing regression efforts by 80%.
+- Improved UI performance by fixing bugs with **React & jQuery**.
+- Reduced test flakiness in the integration framework using mock integrations. 
+- Created Selenium WebDriver update script, cutting manual infrastructure maintenance.
+- Supported 6+ feature releases through cross-functional collaboration and automated testing.
 ---
 **Education:** 
 - PGDAC (Post Graduation Diploma in Advanced Computing), SunBeam Institute of Information Technology, Pune – 71.25%
@@ -52,10 +50,10 @@
   font-size: 10pt;
 }
 h1 {
-  font-size: 13pt;
+  font-size: 12pt;
 }
 h2 {
-  font-size: 12pt;
+  font-size: 11pt;
 }
 ul{
     margin-top:0pt
